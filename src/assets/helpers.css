@@ -1,0 +1,14 @@
+.clickable {
+  cursor: pointer;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.span-col {
+  grid-column: 1/-1;
+}
+.span-row {
+  grid-row: 1/-1;
+}
